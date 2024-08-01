@@ -7,11 +7,11 @@ With a strong research and data storytelling foundation, I am keen to explore st
 
 - 🌱 I’m currently working on my CareerFoundry Data Analytics Certification and Data Camp Associate Data Analyst in SQL certification.
   
-- 👨‍💻 Discover my projects [here]((https://github.com/Buket-Oz?tab=repositories)).
+- 👨‍💻 Discover my projects [here](https://github.com/Buket-Oz?tab=repositories).
 
 - 📄 Explore my portfolio [here](https://drive.google.com/file/d/1XQBYrq2etloJ3h_vNIUFFuTK0h7E1IVj/view?usp=sharing).
   
-- 📊 Check my Tableau visualizations [here](https://public.tableau.com/app/profile/buket.oztekin/vizzes).
+- 📊 See my Tableau visualizations [here](https://public.tableau.com/app/profile/buket.oztekin/vizzes).
 
 
 ## ⚙ Tools & Technologies
