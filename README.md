@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=56bff0&lines=Hi+I'm+Buket+Oztekin)](https://git.io/typing-svg)
 
 
-A data analyst with a diverse academic background, including a PhD in Linguistics. My experience spans psychology, speech and language therapy, and linguistics, giving me a unique perspective on data analysis. I specialize in transforming complex data into clear, actionable insights, making them accessible to diverse audiences.
+I'm a data analyst with a PhD in Linguistics and a background in psychology, speech therapy, and education. My diverse experiences have given me a unique perspective on data analysis. I excel at turning complex data into clear, actionable insights for those who need it.
 
-With a strong research and data storytelling foundation, I am keen to explore strategic roles where I can design and deploy impactful data solutions.
+With a strong background in research and education, I focus on applying research-based strategies in practical ways to achieve real-world results. Now, I'm excited to find strategic roles where I can design and implement impactful data solutions.
 
 - 🌱 I’m currently working on my CareerFoundry Data Analytics Certification and Data Camp Associate Data Analyst in SQL certification.
   
