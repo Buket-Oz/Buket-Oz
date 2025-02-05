@@ -5,11 +5,11 @@ I'm a data analyst with a PhD in Linguistics and a background in psychology, spe
 
 With a strong background in research and education, I focus on applying research-based strategies in practical ways to achieve real-world results. Now, I'm excited to find strategic roles where I can design and implement impactful data solutions.
 
-- 🌱 I’m currently working on my CareerFoundry Data Analytics Certification and Data Camp Associate Data Analyst in SQL certification.
+- 🌱 I’m currently working on Data Camp Associate Data Analyst in SQL certification and WorldQuant University Applied Data Science Lab.
   
 - 👨‍💻 Discover my projects [here](https://github.com/Buket-Oz?tab=repositories).
 
-- 📄 Explore my portfolio [here](https://drive.google.com/file/d/1XQBYrq2etloJ3h_vNIUFFuTK0h7E1IVj/view?usp=sharing).
+- 📄 Explore my portfolio [here](https://drive.google.com/file/d/1l6ddLnmmWYZn71Nq6fhz7oF4V_bBEtXI/view?usp=sharing).
   
 - 📊 See my Tableau visualizations [here](https://public.tableau.com/app/profile/buket.oztekin/vizzes).
 
