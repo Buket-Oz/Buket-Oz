@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=56bff0&lines=Hi+I'm+Buket+Oztekin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=56bff0&lines=Hi+I'm+Buket)](https://git.io/typing-svg)
 
 
 I'm a data analyst with a PhD in Linguistics and a background in psychology, speech therapy, and education. My diverse experiences have given me a unique perspective on data analysis. I excel at turning complex data into clear, actionable insights for those who need it.
@@ -23,4 +23,4 @@ With a strong background in research and education, I focus on applying research
 
 ## To contact 🌎: 
 - Connect on <a href="https://www.linkedin.com/in/buketoztekin/">LinkedIn</a> 💼
-- Email me at [buketoztekin@gmail.com](mailto:buketoztekin@gmail.com) 📧
+- Email me at [buketdatalab@gmail.com](mailto:buketoztekin@gmail.com) 📧
